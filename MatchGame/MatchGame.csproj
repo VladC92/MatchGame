@@ -95,5 +95,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="70783D32-4434-4336-97CD-65A27428383D.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="c3b65d35-4cc7-4648-a2bc-0580ba9c2668.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
